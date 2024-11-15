@@ -49,6 +49,6 @@ properties:
         description: Install NetWide Assembler (NASM)
         allowPrerelease: true
       settings:
-        id: Nasm.Nasm
+        id: Nasm.Nasmc
         source: winget
   configurationVersion: 0.1.0
